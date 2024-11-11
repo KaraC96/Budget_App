@@ -1,0 +1,18 @@
+{
+    "name": "lulek/aplikacja_budzet",
+    "description": "A PHP application for tracking expenses.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "KaraC96",
+            "email": "135842818+KaraC96@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "src/Framework",
+            "App\\": "src/App"
+        }
+    }
+}
